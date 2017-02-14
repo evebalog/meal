@@ -1,1 +1,2 @@
 coffee, fruit, bagel
+fruit
